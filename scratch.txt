@@ -3,3 +3,6 @@ match <a> where it's a category tag or outhor
 
 match on links where /nnnn/nn/
 (?s)<a\s+[^>]*?href=\s*"\{\{ site\.baseurl \}\}/[0-9]{4}/[0-9]{2}/.*?".*?>(.*?)</a>
+
+match links on /blog/.../ but not /blog/#[some anchor]
+(?s)<a\s+[^>]*?href=\s*"\{\{ site\.baseurl \}\}/blog/[^"]+?".*?>(.*?)</a>
