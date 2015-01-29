@@ -3,8 +3,8 @@ title: Actor Notes
 email: don@actornotes.com
 description: > 
   Collaborative acting thoughts. Read journal entries from other actors and contribute your own. Let's all have an epiphany together!
-baseurl: "/jekyll.actornotes.com"
-url: "http://happycollision.github.io"
+baseurl: ""
+url: "http://actornotes.com"
 twitter_username: actornotes
 
 # Build settings
