@@ -1,2 +1,6 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 **/*.psd filter=lfs diff=lfs merge=lfs -text
+_design-assets/Actor[[:space:]]Notes[[:space:]]Image.psd filter=lfs diff=lfs merge=lfs -text
+_design-assets/Fiber_texture.psd filter=lfs diff=lfs merge=lfs -text
+_design-assets/canvas[[:space:]]texture.psd filter=lfs diff=lfs merge=lfs -text
+_design-assets/cardboard[[:space:]]texture.psd filter=lfs diff=lfs merge=lfs -text
